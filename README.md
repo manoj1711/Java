@@ -53,5 +53,18 @@ You can click the Preview link to take a look at your changes.
 43. Java Matrix Addition.
 44. Right angle Triangle.
 45. Lcm And Gcd calculation.
-46. Mth max and Nth min of tow number and sum of it.
-47. Reverse Number java.
+46. Mth max and Nth min of tow number and sum of 
+47. Removing vowels from a string.
+48. Reverse Number java.
+49. Square root of perfect square number both in pos and neg.
+50. Frequency of elements in a array.
+51. Number of days in a month, get input of both year and month
+52. Java code to Implement with the Parametrized Constructor.
+53. Runnable interface in Java to generate Fibonacci series.
+54. Array Index Out Of Bounds Exception program in java.
+55. Print last word of a string.
+56. Print Common Elements in a array.
+57. Reduce positive integer to zero.
+58. Print composite numbers in a array seperately.
+59. Sort a string and reverse it
+60. Removal of vowel in a string
