@@ -72,3 +72,7 @@ You can click the Preview link to take a look at your changes.
 62. Sorting alphabetically
 63. Anagram,lenth of last word,upper case
 64. length of last str
+65. pattern1
+66. pattern2
+67. pattern3
+68. Hollowsquare
