@@ -68,3 +68,5 @@ You can click the Preview link to take a look at your changes.
 58. Print composite numbers in a array seperately.
 59. Sort a string and reverse it
 60. Removal of vowel in a string
+70. Number of digits
+71. Sorting alphabetically
