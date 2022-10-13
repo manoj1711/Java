@@ -76,3 +76,4 @@ You can click the Preview link to take a look at your changes.
 66. pattern2
 67. pattern3
 68. Hollowsquare
+69 .pairs
