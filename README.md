@@ -77,3 +77,5 @@ You can click the Preview link to take a look at your changes.
 67. pattern3
 68. Hollowsquare
 69 .pairs
+70. Multiplication table
+71. Studentsgrades
